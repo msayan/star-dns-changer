@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">Hakkında</string>
+    <string name="about_app">Star DNS Değiştirici Hakkında</string>
+    <string name="app_name">Star DNS Değiştirici</string>
+    <string name="choose_dns_server">DNS Sunucusu Seçiniz..</string>
+    <string name="custom_dns">Özel DNS Sunucusu</string>
+    <string name="enter_valid_dns">Lütfen geçerli bir DNS sunucusu giriniz.</string>
+    <string name="send_feedback">Geri Bildirim Gönderin</string>
+    <string name="send_mail">Mail Gönder</string>
+    <string name="service_started">DNS Servisi başladı</string>
+    <string name="service_stoppped">DNS Servisi durdu</string>
+    <string name="start">Değiştir!</string>
+    <string name="stop">Durdur</string>
+    <string name="tell_us_what_you_think">Neler düşündüğünü bize söyle.</string>
+    <string name="version">Versiyon %1$s</string>
+    <string name="cancel">İptal</string>
+    <string name="auto_start">Başlangıçta otomatik çalıştır</string>
+    <string name="settings">Ayarlar</string>
+    <string name="turn_on">DNS başlat</string>
+    <string name="service_ready">DNS servisi hazır</string>
+    <string name="dns_starting">DNS başlatılıyor.</string>
+    <string name="general_settings">Genel Ayarlar</string>
+</resources>

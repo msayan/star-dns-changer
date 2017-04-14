@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:opacity="opaque">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/colorAccent" />
+        </shape>
+    </item>
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/ic_launcher" />
+    </item>
+
+    <item android:bottom="80dp">
+        <bitmap
+            android:gravity="bottom"
+            android:src="@drawable/hololo" />
+    </item>
+</layer-list>
