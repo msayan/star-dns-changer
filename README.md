@@ -1,4 +1,34 @@
- The MIT License (MIT)
+# Star DNS Changer Android Application
+
+### Introdution
+Star DNS Changer is a DNS Changer application.
+
+<a href="https://play.google.com/store/apps/details?id=com.hololo.app.dnschanger" target="_blank">
+<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="90"/></a>
+
+### Screenshots
+![screenshots](images/1.png) ![screenshots](images/2.png) ![screenshots](images/3.png) ![screenshots](images/4.png)
+
+### Libraries
+- [RxJava2](https://github.com/ReactiveX/RxJava) and [RxAndroid](https://github.com/ReactiveX/RxAndroid)
+- [Dagger 2](http://google.github.io/dagger/)
+- [Butterknife](https://github.com/JakeWharton/butterknife)
+- [Timber](https://github.com/JakeWharton/timber)
+
+## Build
+
+```shell
+./gradlew assembleDebug
+```
+
+### Contact Me
+
+- Github: github.com/msayan
+- Email: m.salimayan@gmail.com
+
+### License
+
+    The MIT License (MIT)
 
     Copyright (c) 2017 Mehmet Salim Ayan
 
